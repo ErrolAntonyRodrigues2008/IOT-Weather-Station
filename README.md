@@ -29,6 +29,7 @@ Rain Gauge (Reed Switch X1)
 Blynk app for mobile monitoring
 
 **Connections**
+
 •DHT22 Sensor
 Data Pin: Connect to digital pin 12 on the Arduino
 VCC: Connect to the 5V power supply
