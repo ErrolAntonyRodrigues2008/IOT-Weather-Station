@@ -6,7 +6,7 @@ This project features an IoT Weather Station using the Arduino Uno R4 Wi-Fi. It 
 
 This project showcases an IoT Weather Station built using the Arduino Uno R4 Wi-Fi, designed to monitor and report various environmental parameters. Utilizing multiple sensors—including the DHT22 for temperature and humidity, the BMP180 for atmospheric pressure, an anemometer for wind speed, a wind vane for wind direction, and a rain gauge for measuring rainfall—this station provides comprehensive weather data. All collected data is uploaded in real-time to the Blynk app, enabling remote monitoring.
 
-**Features**
+**FEATURES**
 
 •DHT22 Sensor: Accurately measures temperature and humidity.
 
@@ -22,7 +22,8 @@ This project showcases an IoT Weather Station built using the Arduino Uno R4 Wi-
 
 •User-Friendly Interface: The Blynk app displays temperature, humidity, pressure, wind speed, wind direction, and rainfall in an easily accessible format.
 
-**Components Used**
+**COMPONENTS USED**
+
 Arduino Uno R4 Wi-Fi
 DHT22 Temperature and Humidity Sensor
 BMP180 Barometric Pressure Sensor
@@ -31,7 +32,7 @@ Wind Vane (Reed Switch X8)
 Rain Gauge (Reed Switch X1)
 Blynk app for mobile monitoring
 
-**Connections**
+**CONNECTIONS**
 
 •DHT22 Sensor
 Data Pin: Connect to digital pin 12 on the Arduino
