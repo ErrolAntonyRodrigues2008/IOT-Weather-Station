@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL35914SkfN"
-#define BLYNK_TEMPLATE_NAME "IOT Weather Station"
-#define BLYNK_AUTH_TOKEN "SrFpz6gen8jgXQg6M2yT9bQGECW0CyUd"
+#define BLYNK_TEMPLATE_ID "Your Template ID"
+#define BLYNK_TEMPLATE_NAME "Your Template Name"
+#define BLYNK_AUTH_TOKEN "Your Auth Token"
 
 #include <DHT.h>
 #include <Adafruit_BMP085.h>
@@ -14,8 +14,8 @@
 DHT dht(DHTPIN, DHTTYPE);
 Adafruit_BMP085 bmp;
 
-char ssid[] = "Hyacinth";       // WiFi SSID
-char pass[] = "Errol19052008*"; // WiFi password
+char ssid[] = "Your SSID";       // WiFi SSID
+char pass[] = "Your Password"; // WiFi password
 
 BlynkTimer timer;
 
